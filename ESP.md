@@ -1,9 +1,3 @@
--- CREDIT | SHARK X EDIT | https://www.youtube.com/channel/UCX--xBqSg1IdzLkaqmLTorA
--- CREDIT | SHARK X EDIT | https://www.youtube.com/channel/UCX--xBqSg1IdzLkaqmLTorA
--- CREDIT | SHARK X EDIT | https://www.youtube.com/channel/UCX--xBqSg1IdzLkaqmLTorA
--- CREDIT | SHARK X EDIT | https://www.youtube.com/channel/UCX--xBqSg1IdzLkaqmLTorA
-
-
 while wait() do
      pcall(function()
        for i,v in pairs(game.Players:GetChildren()) do
@@ -26,7 +20,7 @@ while wait() do
                 TextLabel.Text = v.Name
                 TextLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
                 TextLabel.TextScaled = true
-                TextLabel.TextSize = 14.000
+                TextLabel.TextSize = 12.000
                 TextLabel.TextStrokeTransparency = 0.000
                 TextLabel.TextWrapped = true
             end
