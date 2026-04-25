@@ -9,7 +9,7 @@ getgenv().Config = {
     [84259959693333] = {
     http = "https://raw.githubusercontent.com/Ecohubv2/Test/refs/heads/main/Sketbord.lua"
     },
-    [84259959693333] = {
+    [102669100769936] = {
     http = "https://raw.githubusercontent.com/book-hub111/book-hub111/refs/heads/main/Def67.lua"
     }
 }
