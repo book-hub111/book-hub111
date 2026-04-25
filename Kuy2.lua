@@ -3,9 +3,6 @@ local PlaceId = game.PlaceId
 local GameName = MarketplaceService:GetProductInfo(PlaceId).Name
 
 getgenv().Config = {
-    [75251063577391] = {
-        http = "https://raw.githubusercontent.com/book-hub111/Eco-hub2/refs/heads/main/BH.lua"
-    },
     [84259959693333] = {
     http = "https://raw.githubusercontent.com/Ecohubv2/Test/refs/heads/main/Sketbord.lua"
     },
